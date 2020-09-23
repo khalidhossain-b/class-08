@@ -264,7 +264,7 @@ nav ul li a:hover{
   border: 1px solid #999999;
   margin-bottom: 15px;
   font-size: 15px;
-      color: #fff;
+  color: #fff;
 }
 .contact-form form textarea{
   width: 100%;
@@ -274,6 +274,7 @@ nav ul li a:hover{
   border: 1px solid #999999;
   margin-bottom: 15px;
   font-size: 15px;
+  color: #fff;
 }
 .contact-form form ul{
   display: flex;
